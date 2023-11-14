@@ -12,7 +12,7 @@
                       "1": "lava flood"
                     },
                     {
-                      "2": ""
+                      "2": "fireball"
                     }
                   ]
                 }
@@ -99,6 +99,13 @@
             {
               "4": "air"
             }
+          ]
+        },
+        {
+          "artefacts":[
+            {"normal":[
+              {"1":"ghost", "effects":[]}
+            ]}
           ]
         }
       ]
