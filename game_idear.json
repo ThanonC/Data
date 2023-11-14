@@ -1,0 +1,114 @@
+{
+  "game": [
+    {
+      "elements": [
+        {
+          "star": [
+            {
+              "fire": [
+                {
+                  "spells": [
+                    {
+                      "1": "lava flood"
+                    },
+                    {
+                      "2": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "water": [
+                {
+                  "spells": [
+                    {
+                      "1": "acid"
+                    },
+                    {
+                      "2": "water swoard"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "earth": [
+                {
+                  "spells": [
+                    {
+                      "1": "earthquake"
+                    },
+                    {
+                      "2": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "air": [
+                {
+                  "spells": [
+                    {
+                      "1": "air bubble"
+                    },
+                    {
+                      "2": "tornado"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "magic types": [
+        {
+          "1": "mental"
+        },
+        {
+          "2": "circel"
+        },
+        {
+          "3": "grimua"
+        },
+        {
+          "4": "objective"
+        }
+      ]
+    },
+    {
+      "magical objects": [
+        {
+          "1": "staff"
+        },
+        {
+          "crystalls": [
+            {
+              "1": "fire"
+            },
+            {
+              "2": "water"
+            },
+            {
+              "3": "earth"
+            },
+            {
+              "4": "air"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "structures": [
+        {
+          "dungons": []
+        }
+      ]
+    }
+  ]
+}
