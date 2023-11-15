@@ -102,9 +102,34 @@
           ]
         },
         {
-          "artefacts":[
-            {"normal":[
-              {"1":"ghost", "effects":[]}
+          "artefacts": [
+            {
+              "normal": [
+                {
+                  "1": "ghost",
+                  "effects": [
+                    {"walker": "can walk through walls"},
+                    {"": ""}
+                  ]
+                }
+              ]
+            },
+            {"rare":[
+               {
+                "": "",
+                "effects": [
+               ]
+              }
+             ]
+            },
+            {"legendary":[
+              {
+                "1": "black clover",
+                "effects": [
+                  {"unluck": "everybody next to you will be unlucky (not including team)"},
+                  {"power boost": "can absorb mana from your enemy to give you a power boost"}
+                ]
+              }
             ]}
           ]
         }
