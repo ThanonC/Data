@@ -83,7 +83,11 @@
     {
       "magical objects": [
         {
-          "1": "staff"
+          "1": "staff", 
+          "rank": [
+            {"1": "common"}, 
+            {"2": "uncommen"}
+          ]
         },
         {
           "crystalls": [
