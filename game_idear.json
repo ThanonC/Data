@@ -16,7 +16,13 @@
                       "2": "fireball"
                     }
                   ]
-                }
+                },
+                {"sub elements": [
+                  {"1":"hell deamon", "spells": [
+                    {"1":"hell fire"},
+                    {"2":"summon deamon"}
+                  ]}
+                ]}
               ]
             },
             {
@@ -24,11 +30,23 @@
                 {
                   "spells": [
                     {
-                      "1": "acid"
+                      "1": "flood"
                     },
                     {
                       "2": "water swoard"
                     }
+                  ]
+                },
+                {
+                  "sub elements": [
+                    {"1":"acid", "spells": [
+                      {"1":"acid rain"},
+                      {"2":"acid summon"}
+                    ]},
+                    {"2":"mist", "spells": [
+                      {"1":"mist hologram"},
+                      {"2":}
+                    ]}
                   ]
                 }
               ]
@@ -44,6 +62,15 @@
                       "2": ""
                     }
                   ]
+                },
+                {
+                  "sub elements": [
+                    {"1":"necromancer", "spells":[
+                      {"1":"summon dead"},
+                      {"2":"transform"},
+                      {"3":"blood sacrifice"}
+                    ]}
+                  ]
                 }
               ]
             },
@@ -58,7 +85,7 @@
                       "2": "tornado"
                     }
                   ]
-                }
+                }             
               ]
             }
           ]
@@ -84,10 +111,14 @@
     {
       "magical objects": [
         {
-          "1": "staff", 
+          "1": "staff",
           "rank": [
-            {"1": "common"}, 
-            {"2": "uncommen"}
+            {
+              "1": "common"
+            },
+            {
+              "2": "uncommen"
+            }
           ]
         },
         {
@@ -109,30 +140,56 @@
         {
           "artefacts": [
             {
-              "normal": [
+              "d": [
                 {
                   "1": "ghost",
                   "effects": [
-                    {"walker": "can walk through walls"},
-                    {"": ""}
+                    {
+                      "walker": "can walk through walls"
+                    },
+                    {
+                      "": ""
+                    }
                   ]
                 }
               ]
             },
-            {"rare":[
-               {
-                "": "",
-                "effects": [
-               ]
-              }
-             ]
+            {
+              "c": [
+                {
+                  "": "",
+                  "effects": []
+                }
+              ]
             },
-            {"legendary":[
+            {"b":[
+
+            ]},
+            {"a":[
+
+            ]},
+            {
+              "s": [
+                {
+                  "1": "black clover",
+                  "effects": [
+                    {
+                      "unluck": "everybody next to you will be unlucky (not including team)"
+                    },
+                    {
+                      "power boost": "can absorb mana from your enemy to give you a power boost"
+                    }
+                  ]
+                }
+              ]
+            },
+            {"ss":[
               {
-                "1": "black clover",
+                "1": "star ring",
                 "effects": [
-                  {"unluck": "everybody next to you will be unlucky (not including team)"},
-                  {"power boost": "can absorb mana from your enemy to give you a power boost"}
+                  {"destruction power": "+5000"},
+                  {"Luck": "+5000"},
+                  {"???":"???"}
                 ]
               }
             ]}
@@ -143,7 +200,26 @@
     {
       "structures": [
         {
-          "dungons": []
+          "dungons": [
+            {"d":[
+
+            ]},
+            {"c":[
+
+            ]},
+            {"b":[
+              
+            ]},
+            {"a":[
+
+            ]},
+            {"s":[
+
+            ]},
+            {"ss":[
+
+            ]}
+          ]
         }
       ]
     }
