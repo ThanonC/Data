@@ -3,7 +3,8 @@
     {
       "elements": [
         {
-          "star": [
+          "star": "base element",
+          "sub categories": [
             {
               "fire": [
                 {
